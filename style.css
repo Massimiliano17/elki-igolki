@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: aqua;
+    color: green
+}
+header {
+    border: 5px solid snow;
+    border-radius: 20px;
+}
+table {
+    border: 3px solid snow;
+    border-collapse: collapse;
+}
+td {
+    border: 3px solid snow;
+    border-collapse: collapse;
+    padding: 10px;
+}
+a {
+    color: green;
+    text-decoration: none;
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    font-size: 25px;
+}
